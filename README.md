@@ -31,12 +31,12 @@ git clone <>
 cd todo-app
 
 
-Directory Structure:Ensure the project has the following structure:
-backend -> Dockerfile,db.js,package.json,server.js,tests -> server.test.js
-frontend -> index.html,script.js,style.css,package.json
-db -> init.sql
-docker-compase.yml
-README.md
+Directory Structure:Ensure the project has the following structure:-
+--backend -> Dockerfile,db.js,package.json,server.js,tests -> server.test.js
+--frontend -> index.html,script.js,style.css,package.json
+--db -> init.sql
+--docker-compase.yml
+--README.md
 
 Run the Application:
 docker-compose up --build
