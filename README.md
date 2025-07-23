@@ -1,5 +1,5 @@
-"# To-Do-App." 
-To-Do App
+"# To-Do-App." -> 
+
 A simple To-Do web application built for the Senior Full Stack Engineer Take Home Assessment. Users can create tasks with a title and description, view the most recent 5 non-completed tasks, and mark tasks as completed. The application is fully Dockerized and uses MySQL, Node.js/Express, and a vanilla JavaScript frontend served by Nginx.
 Features
 
